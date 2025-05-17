@@ -1,0 +1,6 @@
+[submodule "multiplayersudoku"]
+	path = multiplayersudoku
+	url = https://github.com/eeemmm29/multiplayer-sudoku-backend
+[submodule "multiplayer-sudoku-frontend"]
+	path = multiplayer-sudoku-frontend
+	url = https://github.com/eeemmm29/multiplayer-sudoku-frontend
